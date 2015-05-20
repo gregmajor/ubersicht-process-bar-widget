@@ -57,7 +57,7 @@ render: -> """
     <div class="widget-title">Processes</div>
     <table class="stats-container" width="100%">
       <tr>
-        <td class="cpu-0"></span></td>
+        <td class="cpu-0"></td>
         <td class="cpu-1"></td>
         <td class="cpu-2"></td>
         <td class="cpu-3"></td>
