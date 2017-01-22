@@ -7,7 +7,7 @@ style: """
   widget-align = left
 
   // Position the widget on your screen
-  bottom 100px
+  bottom 140px
   left 15px
 
   // Change the style of the widget
